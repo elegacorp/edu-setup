@@ -1,0 +1,2 @@
+# Avoid commit of PyCache files
+**/__pycache__/***

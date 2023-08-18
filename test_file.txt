@@ -1,0 +1,24 @@
+Board Name: Pluralsight: Getting Started
+
+1 - Introduction
+Overview
+Prerequisites
+Conclusion
+
+2 - Starting to Learn
+Overview
+Learning Hardcore
+Never Stopping
+Always Learning
+Demo: Everything is Awesome
+Conclusion
+
+3 - How to Code
+Overview
+Being Really Smart
+Getting Super Logical
+Write Lots of Unit Tests
+No, Seriously, Write Unit Tests, Please
+Demo: Seriously, Write Automated Tests
+I Am Really Not Kidding
+Conclusion
